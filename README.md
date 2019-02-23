@@ -5,7 +5,7 @@ Python Fate/Grand Order
 利用adb和Android模拟器实现的简单脚本<br>
 用于抽取无限池和领取礼物箱中的物品<br>
 
-## Useage
+## Usage
 
 #### First Step
 打开文件，在开头修改模拟器的adb连接地址和按钮的位置<br>
